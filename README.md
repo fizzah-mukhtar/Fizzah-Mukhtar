@@ -20,21 +20,51 @@ Currently, I am seeking remote Software Engineer opportunities while growing my 
 - 💻 Completed 50+ freelance Computer Science software projects
 - 🌍 Open to Remote Opportunities Worldwide
 
-🛠 Tech Stack
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+## 🛠 Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,python,javascript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
+</p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Artificial Intelligence
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-EA4335?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio,postman" />
+</p>
 ⭐ Featured Projects
 
 🚀 SplitSync
