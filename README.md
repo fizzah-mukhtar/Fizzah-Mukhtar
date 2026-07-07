@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+Full+Stack+Developer+ASP.NET+Core+Developer+Flutter+Developer+AI+Enthusiast+Founder+%40+SilverStreakIT+Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Founder+%40+SilverStreakIT+;Full+Stack+Developer+;ASP.NET+Core+Developer+;AI+Enthusiast+;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
 
 Hi there 👋 I'm Fizzah Mukhtar Mirza
 
