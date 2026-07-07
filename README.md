@@ -21,47 +21,19 @@ Currently, I am seeking remote Software Engineer opportunities while growing my 
 - 🌍 Open to Remote Opportunities Worldwide
 
 🛠 Tech Stack
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-Languages
-- C#
-- Java
-- Python
-- JavaScript
-- SQL
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-Backend
-- ASP.NET Core
-- ASP.NET MVC
-- REST APIs
-- Entity Framework Core
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-Mobile
-- Flutter
-- Riverpod
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-Database
-- SQL Server
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-AI
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- TensorFlow
-- OpenCV
-
-Tools
-- Git
-- GitHub
-- Visual Studio
-- VS Code
-- Android Studio
-- Postman
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ⭐ Featured Projects
 
